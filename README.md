@@ -10,10 +10,10 @@ Code for convert your boring script file to beauty and readable code!
 </h2>
 
 <p align="center">
+
 <img src="https://img.shields.io/github/downloads/bronikwin/beautyComments/total?logo=GitHub">
 
-<img src = "https://img.shields.io/github/languages/top/bronikwin/beautyComments">
-
+<img src ="https://img.shields.io/github/languages/top/bronikwin/beautyComments?logo=GitHub">
 
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
