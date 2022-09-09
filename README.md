@@ -51,4 +51,31 @@ Such comments are striking and you can easily understand in further the code pie
 ...text...
 
 ## EXAMPLES OF COMMENTS CONVERSION
-...picture...
+## Now we will understand params of comments conversion step by step
+<p align="center">
+main_symbol = '#'
+<p align="center">
+<img src="/src/img/lattice_settings.JPG" alt="main_symbol=#" width="450" height="200">
+<p align="center">
+<img src="/src/img/lattice_comment.JPG" alt="main_symbol=#" width="450" height="350">
+
+<p align="center">
+main_symbol = '~'
+<p align="center">
+<img src="/src/img/tilda_settings.JPG" alt="main_symbol=~" width="450" height="200">
+<p align="center">
+<img src="/src/img/tilda_comment.JPG" alt="main_symbol=~" width="450" height="350">
+
+<p align="center">
+text_symbol = ' '
+<p align="center">
+<img src="/src/img/text_symbol_space.JPG" alt="text_symbol=' '" width="450" height="200">
+<p align="center">
+<img src="/src/img/text_symbol_space_comment.JPG" alt="text_symbol=' '" width="450" height="350">
+
+<p align="center">
+text_symbol = '~'
+<p align="center">
+<img src="/src/img/text_symbol_tire.JPG" alt="text_symbol=~" width="450" height="200">
+<p align="center">
+<img src="/src/img/text_symbol_tire_comment.JPG" alt="text_symbol=~" width="450" height="350">
