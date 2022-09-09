@@ -48,7 +48,7 @@ For splitting you code on blocks within file or class!
 Such comments are striking and you can easily understand in further the code piece by piece
 
 ## How to use it?
-...text...
+...text...<p>
 
 ## EXAMPLES OF COMMENTS CONVERSION
 ## Now we will understand params of comments conversion step by step
